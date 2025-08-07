@@ -1,3 +1,5 @@
+'''This is a simple NotePad modeb created by Abhay14-python with the teaching of Clear Code'''
+
 import tkinter as tk
 from tkinter import ttk
 
@@ -38,3 +40,5 @@ button.pack()
 
 # run 
 window.mainloop()
+
+print("Thnaks for your support !")
